@@ -31,3 +31,6 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+# apps
+apps/**/package-lock.json

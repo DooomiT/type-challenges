@@ -1,0 +1,24 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "type challenge from https://github.com/type-challenges/type-challenges/",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dooomit/type-challenges.git"
+  },
+  "author": "DooomiT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dooomit/type-challenges/issues"
+  },
+  "homepage": "https://github.com/dooomit/type-challenges#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2",
+    "vitest": "^0.7.10"
+  }
+}
