@@ -34,3 +34,4 @@ yarn-error.log*
 
 # apps
 apps/**/package-lock.json
+dist
